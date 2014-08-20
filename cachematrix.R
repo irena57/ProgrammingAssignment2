@@ -56,7 +56,7 @@ cacheSolve <- function(x, ...) {
 
 ###########################################################################
 
-# Examples of input and output of above functions
+# Examples of input and output of above functions (just run them!)
 #
 # 1) First call of functions
    matr <- matrix(runif(9),3,3)            # Setting an example matrix
